@@ -1,0 +1,11 @@
+div > p {
+	color: #fabada;
+	border: 2px;
+	border-style: solid;
+}
+.importante + p {
+	color: red;
+}
+h1 ~ p {
+	font-family: impact;
+}
